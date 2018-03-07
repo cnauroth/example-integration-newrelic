@@ -1,4 +1,4 @@
-gandrews/mulan_app:
+cnauroth/cnauroth-kermit-app:
 
   Env:
     - NR_INSTALL_SILENT: "TRUE"
